@@ -17,4 +17,4 @@ Count: 1
 
 --> there is only one pair whose sum is 3, so the output is ,,Count: 1''
 
-*order of elements doesnt matter, (a; b) & (b, a) do only count as one combination.
+*order of elements doesnt matter, (a, b) & (b, a) do only count as one combination.
