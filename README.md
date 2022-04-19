@@ -1,6 +1,5 @@
-# SUM COMBINATION CALCULATOR
+# SUM COMBINATIONS
 
-Simply use the built in black jack to calculate possible sums or enter a custom list of integers and a legal sum of two elements, the program will randomly count all possible combinations.
 
 *Example: 
 
@@ -15,6 +14,4 @@ deck length: 3
 enter sum: 3
 Count: 1
 
---> there is only one pair whose sum is 3, so the output is ,,Count: 1''
 
-*order of elements doesnt matter, (a, b) & (b, a) do only count as one combination.
